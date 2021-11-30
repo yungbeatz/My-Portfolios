@@ -7,8 +7,8 @@
      
 | name of portfolio       | code repository   | date published
 |:-------------:|:-------------:|:-------------:|
-|<a href="https://github.com/yungbeatz/YungBeatz.github.io/blob/master/_posts/ArrayList.md">ArrayLists</a>| <a href="https://github.com/yungbeatz/Wannabe-Quizlet">Wannabe Quizlet</a> | `16.11.2021` |
-| <a href="https://github.com/yungbeatz/YungBeatz.github.io/blob/master/_posts/While%20-%20Loops.md">While - Loops </a> | <a href="https://github.com/yungbeatz/Number-Riddle">Number riddle </a> | `21.09.2021` |
+|<a href="https://github.com/yungbeatz/portfolios/blob/main/all%20portfolios/ArrayLists.md">ArrayLists</a>| <a href="https://github.com/yungbeatz/Wannabe-Quizlet">Wannabe Quizlet</a> | `16.11.2021` |
+| <a href="https://github.com/yungbeatz/portfolios/blob/main/all%20portfolios/While%20-%20Loops.md">While - Loops </a> | <a href="https://github.com/yungbeatz/Number-Riddle">Number riddle </a> | `21.09.2021` |
 </div>
 
 
