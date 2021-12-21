@@ -8,6 +8,9 @@ Das Team "🍬" und ich haben mithilfe der Programmiersprache "C#" ein Hütchens
 
 ## Wie benutze ich einen `button`?
 Da wir ja diesmal auch eine GUI (**G**raphical **U**ser **I**nterface) haben, brauchen wir auch dementsprechend auch die sogenannten `buttons`, um unser Spiel umso besser zu machen! Im `Windows Forms` müssen wir diese `buttons` zweimal in unser Programm implementieren: Einmal ziehen wir einen `button` aus der `Toolbox` (eine Liste mit allen möglichen Tools, die man in einem GUI mit Windows Forms benutzen kann) in unser `Form.cs [Design]` (also das Default Interface von unserem Programm) und gleichzeitig wird automatisch eine `funktion` im `Program.cs` (der ganze Source Code unseres Programmes) generiert zu diesem `button` den wir erst gerade in unsere `Form.cs [Design]` eingefügt haben.
+
+
+
 Hier ein beispiel:
 Unser `button` im `Program.cs`
 ```csharp
