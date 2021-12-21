@@ -1,6 +1,6 @@
 # HatGame
 
-Das Team "🍬" und ich haben mithilfe der Programmiersprache "C#" ein Hütchenspiel programmiert. Man kann mit Startgeld ($300) oder mit dem gewonnenen Geld eine Wette setzten, danach klickt man auf einen der 3 Hüte und mit etwas Glück gewinnt man das gewettete Geld! ^^
+Das Team "🍬" und ich haben mithilfe der Programmiersprache "C#" ein Hütchenspiel programmiert. Man kann mit Startgeld ($300) oder mit dem gewonnenen Geld eine Wette setzen, danach klickt man auf einen der 3 Hüte und mit etwas Glück gewinnt man das gewettete Geld! ^^
 
 ## Aufgabenstellung
 • Meine Skills mit `buttons` verbesseren.
