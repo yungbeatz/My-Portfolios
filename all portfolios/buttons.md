@@ -1,6 +1,6 @@
 # HatGame
 
-Das Team "🍬" und ich haben mithilfe der Programmiersprache "C#" ein Hütchenspiel programmiert. Man kann mit Startgeld ($300) oder mit dem gewonnenen Geld eine Wette setzen, danach klickt man auf einen der 3 Hüte und mit etwas Glück gewinnt man das gewettete Geld! ^^
+Das Team "🍬" und ich haben mithilfe der Programmiersprache `C#` ein Hütchenspiel programmiert. Man kann mit Startgeld ($300) oder mit dem gewonnenen Geld eine Wette setzen, danach klickt man auf einen der 3 Hüte und mit etwas Glück gewinnt man das gewettete Geld! ^^
 
 ## Aufgabenstellung
 • Meine Skills mit `buttons` verbesseren.
@@ -24,7 +24,7 @@ Unser `button` im `Form.cs [Design]`
 
 
 
-[![description](https://media.giphy.com/media/bTRqUfkXtaBIj9PkQf/giphy.gif)](https://media.giphy.com/media/bTRqUfkXtaBIj9PkQf/giphy.gif)
+ ![description](https://user-images.githubusercontent.com/56764505/146994636-3162b440-a915-4af2-ab2b-c30c93660b07.gif)
 
 
 
@@ -44,7 +44,8 @@ Unser `button` im `Form.cs [Design]`
 
 
 
- [![description](https://i.ibb.co/v3G5rDX/Screenshot-2021-12-21-144834.jpg)](https://i.ibb.co/v3G5rDX/Screenshot-2021-12-21-144834.jpg)
+![Screenshot 2021-12-21 144834](https://user-images.githubusercontent.com/56764505/146994840-ae4ca113-0085-421f-a968-f6030f3055e7.jpg)
+
 
 
 
@@ -67,7 +68,8 @@ Hier ein visuelles Beispiel:
 
 
 
-[![description](https://media.giphy.com/media/cEio37xIvAsQFFmLfH/giphy.gif)](https://media.giphy.com/media/cEio37xIvAsQFFmLfH/giphy.gif)
+![2021-12-21 15-02-59_Trim](https://user-images.githubusercontent.com/56764505/146994892-2c27d882-47c6-4a77-aec6-913a0640dd73.gif)
+
 
 
 
@@ -90,4 +92,4 @@ In der Gruppe habe ich diesmal zu den "schwächeren" gehört, ich habe recht vie
 
 
 Mithilfe von Vin und Ilona habe ich schnell gelernt, wie ich `buttons` richtig und effektiv nutze! Ich habe definitiv meine Skills mit `buttons` verbessert!
-Fürs nächste mal möchte ich mich mehr ins zeug legen wenn wir wieder mit Windows Forms arbeiten damit ich dann auch viel zum Projekt beitragen kann.
+Beim nächsten Projekt wo wieder mit `Windows Forms` gearbeitet wird, werde ich mich mehr engagieren um die `Windows Forms` Sprache besser beherrschen zu können und um mehr zum Projekt beitragen zu können.
