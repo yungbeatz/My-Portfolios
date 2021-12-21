@@ -87,3 +87,4 @@ In der Gruppe habe ich diesmal zu den "schwächeren" gehört, ich habe recht vie
 
 
 Mithilfe von Vin und Ilona habe ich schnell gelernt, wie ich `buttons` richtig und effektiv nutze! Ich habe definitiv meine Skills mit `buttons` verbessert!
+Fürs nächste mal möchte ich mich mehr ins zeug legen wenn wir wieder mit Windows Forms arbeiten damit ich dann auch viel zum Projekt beitragen kann.
