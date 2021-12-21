@@ -32,8 +32,14 @@ Unser `button` im `Form.cs [Design]`
   
 ## Wie machen wir jetzt so ein button nützlich? 
  Das ist eigentlich ganz einfach! Es gibt 2 Sachen, die wir mit diesem `button` machen können: 
+
+
+
 • Den `button` eine Funktion geben.
+
 • Den `button` visuell verändern.
+
+
  
  ####  Den button visuell verändern:
  Nun befinden wir uns im `Form.cs [Desgin]` und haben unseren `button` ausgewählt, sehen wir rechts unten einen Tab mit allen Eigenschaften des `buttons`. Dort können wir die Farbe, die Schriftgrösse, die Schriftart und vieles mehr ändern!
@@ -92,6 +98,6 @@ In der Gruppe habe ich diesmal zu den "schwächeren" gehört, ich habe recht vie
 
 
 Mithilfe von Vin und Ilona habe ich schnell gelernt, wie ich `buttons` richtig und effektiv nutze! Ich habe definitiv meine Skills mit `buttons` verbessert!
-Beim nächsten Projekt wo wieder mit `Windows Forms` gearbeitet wird, werde ich viel mehr beitragen können da ich nun das wichtigste über `Windwos Forms` weiss und auch dementsprechend nutzen kann. 
+Beim nächsten Projekt wo wieder mit `Windows Forms` gearbeitet wird, werde ich viel mehr beitragen können da ich nun das wichtigste über `Windwos Forms` weiss und auch dementsprechend anwenden kann. 
 
 
