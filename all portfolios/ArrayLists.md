@@ -46,7 +46,7 @@ static void Main(string[] args)
 ```
 Wir haben jetzt beide Code Snippets untereinander aufgeschrieben. Danach haben wir den Namen unserer Funktionen genommen, also `PrintValue` und haben es im oberen Code Snippet mit den Namen unserer `ArrayList` aufgeschrieben, also `PrintValue(fav_colors);`. Nun wird der Inhalt der unserer `ArrayList` gedruckt! Aber wieso? In der Funktion wurde in den Klammern der Datentyp `IEnumerable myList` deklariert. Das bedeutet alles was wir oben in der Klammer von `PrintValue` in den Klammern eingeben haben wird automatisch zur `myList` in der Funktion.
 ### Beispielvideo:
-[![description](https://www.klicksafe.de/fileadmin/_processed_/1/0/csm_Logo_YouTube_01_29755e6f1a.png)](https://youtu.be/Xq0pYuUixdU)
+![description](https://www.klicksafe.de/fileadmin/_processed_/1/0/csm_Logo_YouTube_01_29755e6f1a.png)](https://youtu.be/Xq0pYuUixdU)
 ## Reflektion und Verifikation
 **Reflektion:**
 Die Arbeit lief ganz gut, es gab am Anfang etwas Probleme da wir nicht richtig unsere Arbeit aufgeteilt hatten, jedoch haben wir das in der nächsten LA Stunde schnell gelöst und recht schnell und produktiv gearbeitet.
